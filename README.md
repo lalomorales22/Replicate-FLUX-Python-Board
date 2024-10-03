@@ -1,6 +1,7 @@
 # Replicate Flux Message Board
+<img width="613" alt="Screenshot 2024-10-03 at 9 03 05 AM" src="https://github.com/user-attachments/assets/c67cf937-4b85-4ffa-be71-7bdc1ffd04ab">
 
-This project is a rad message board application that allows users to post messages, generate images using the Replicate API with the Flux model, comment on posts, and react to messages. It's built with Flask and uses Socket.IO for real-time updates.
+This project is a message board application that allows users to post messages, generate images using the Replicate API with the Flux model, comment on posts, and react to messages. It's built with Flask and uses Socket.IO for real-time updates.
 
 GitHub Repository: [https://github.com/lalomorales22/Replicate-Flux-Message-Board.git](https://github.com/lalomorales22/Replicate-Flux-Message-Board.git)
 
